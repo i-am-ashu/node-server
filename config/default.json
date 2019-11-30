@@ -1,5 +1,5 @@
 {
-    "port": 9898,
+    "port": 9999,
     "host": "localhost",
     "database": "Classwork",
     "user": "Dac",
